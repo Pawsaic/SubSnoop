@@ -82,3 +82,13 @@ a:hover {
   margin-right: 8px;
   border-radius: 4px;
 }
+
+.favicon-inline {
+  padding: 16px 16px 0 16px;
+}
+
+.favicon-large {
+  width: 40px;
+  height: 40px;
+  border-radius: 6px;
+}
