@@ -5,7 +5,7 @@
   --card-bg: #1e1e1e;
   --text: #eee;
   --subtext: #aaa;
-  --accent: #00b7ff;
+  --accent: #8c00ff;
 }
 
 body {
@@ -72,19 +72,11 @@ a:hover {
 }
 
 .button:hover {
-  background: #009edb;
-}
-
-.favicon {
-  width: 20px;
-  height: 20px;
-  vertical-align: middle;
-  margin-right: 8px;
-  border-radius: 4px;
+  background: #7200d0;
 }
 
 .favicon-inline {
-  padding: 16px 16px 0 16px;
+  padding: 1px 1px 0 1px;
 }
 
 .favicon-large {
