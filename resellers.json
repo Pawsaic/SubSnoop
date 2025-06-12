@@ -1,0 +1,17 @@
+[
+  {
+    "name": "YourSubSaver",
+    "price": "$1.29/mo",
+    "link": "https://yoursubsaver.com"
+  },
+  {
+    "name": "CheapSubs",
+    "price": "$1.50/mo",
+    "link": "https://cheapsubs.io"
+  },
+  {
+    "name": "SubMart",
+    "price": "$1.75/mo",
+    "link": "https://submart.cc"
+  }
+]
